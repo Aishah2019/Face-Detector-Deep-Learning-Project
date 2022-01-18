@@ -1,4 +1,4 @@
-# Face-Detector-Deep-Learning-Project
+
 # Deep Learning Project 05: Face Detector .
 <p align="center" width="100%">
 <img src="https://mxface.ai/Assets/images/Face_Detection/Face-Detection.png" />
